@@ -19,7 +19,7 @@ To use this project, follow the steps below:
    ```bash
    git clone https://github.com/akshatjaiin/scroll_slide.git
    cd scroll_slide
-```
+``
 
 Open the Project: Open index.html in your web browser. Ensure that you have an internet connection to load the jQuery library, as it's loaded from a CDN.
 
@@ -59,7 +59,5 @@ Styles the card elements and defines colors, fonts, and animation effects for th
 JavaScript (something.js):
 
 Handles the swipe functionality, including the detection of mouse or touch gestures, animation of card movements, and resetting the deck after all cards are swiped.
-System Requirements
-Web Browser: A modern web browser that supports JavaScript and CSS animations (Chrome, Firefox, Safari, Edge).
-JavaScript Libraries:
-jQuery (included via CDN).
+
+![image](https://github.com/user-attachments/assets/864a5b0f-3ab4-4f00-9c1f-ece0b1cf4490)
