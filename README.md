@@ -1,5 +1,5 @@
 # Swipeable Card Interface
-
+https://raw.githack.com/akshatjaiin/scroll_slide/main/index.html
 This project implements a swipeable card interface using HTML, CSS, and JavaScript (with jQuery). Users can swipe cards left or right, simulating interactions similar to mobile applications like Tinder. The card swiping triggers a transform animation, and based on the direction of the swipe, cards either "like" or "reject."
 
 ## Table of Contents
@@ -61,3 +61,4 @@ JavaScript (something.js):
 Handles the swipe functionality, including the detection of mouse or touch gestures, animation of card movements, and resetting the deck after all cards are swiped.
 
 ![image](https://github.com/user-attachments/assets/864a5b0f-3ab4-4f00-9c1f-ece0b1cf4490)
+https://raw.githack.com/akshatjaiin/scroll_slide/main/index.html
